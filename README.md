@@ -1,5 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
+<h1 align="center">Hi 👋, I'm Fran Zurita Gómez</h1>
+<h3 align="center">A backend developer passionate about artificial intelligence and big data from Spain</h3>
+(img align="right" alt="Coding" width="400" src="![image](https://github.com/franzuritagomez/franzuritagomez/assets/148260503/8bcf0c54-4f76-4746-abbe-34eb63e7942b)
+")
 
 # 💫 About Me:
 🔭 I’m currently working on Microsoft Dynamics 365 Business Central Programmer<br>🌱 I’m currently learning  AI & Big Data<br>💬 Ask me about artificial intelligence and data processing & visualization<br>⚡ Fun fact I have an addiction to building Legos.
