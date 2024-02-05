@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fran Zurita Gómez</h1>
 <h3 align="center">A backend developer passionate about artificial intelligence and big data from Spain</h3>
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Microsoft Dynamics 365 Business Central Programmer<br>🌱 I’m currently learning  AI & Big Data<br>💬 Ask me about artificial intelligence and data processing & visualization<br>⚡ Fun fact I have an addiction to building Legos.
