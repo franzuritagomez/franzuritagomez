@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer passionate about artificial intelligence and big data from Spain</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Microsoft Dynamics 365 Business Central Programmer<br>🌱 I’m currently learning  AI & Big Data<br>💬 Ask me about artificial intelligence and data processing & visualization<br>⚡ Fun fact I have an addiction to building Legos.
+🔭 I’m currently working as a Microsoft Dynamics 365 Business Central Programmer<br>🌱 I’m currently learning  AI & Big Data<br>💬 Ask me about artificial intelligence and data processing & visualization<br>⚡ Fun fact I have an addiction to building Legos.
 
 
 ## 🌐 Socials:
